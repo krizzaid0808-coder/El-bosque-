@@ -13,7 +13,7 @@ presplash.filename = %(source.dir)s/presplash.png
 android.archs = arm64-v8a
 android.allow_backup = True
 p4a.bootstrap = sdl2
-
+android.accept_sdk_license = True
 [buildozer]
 log_level = 2
 warn_on_root = 1
